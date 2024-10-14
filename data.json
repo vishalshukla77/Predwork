@@ -1,493 +1,654 @@
 [
     {
-      "Id": 1,
-      "Title": "DJI 2212 920KV Brushless DC Motor for Drone with Black Cap",
-      "Rel": "motor",
-      "Amount": 690,
-      "Image": "na",
-      "Specifications": {
-        "Motor KV": "920 RPM/V",
-        "Motor Rotation": "CW",
-        "Thrust": "Around 0.5 kg",
-        "LiPO Batteries": "3S-4S",
-        "ESC": "30 A",
-        "Shaft Diameter": "6 mm"
-      },
-      "Description": "This motor provides a Motor kV of 920 and gives a thrust of 500 gm. The Ready to Sky brand gained more popularity in the market due to the highest standards for optimal performance and reliability.",
-      "Features": [
-        "Stable Performance",
-        "Compact size",
-        "Offers great performance and value for money",
-        "Provides 0.5 kg of thrust"
-      ],
-      "Package_Includes": [
-        "1 x 2212 920KV Brushless Motor for DJI",
-        "1 x Black Cap"
-      ]
-    },
-    {
-      "Id": 2,
-      "Title": "5010 750KV High Torque Brushless Motor for Drone",
-      "Rel": "motor",
-      "Amount": 1500,
-      "Image": "na",
-      "Specifications": {
-        "Motor KV": "750KV",
-        "LiPO Battery": "2-6s Li-Po",
-        "ESC": "20-40A",
-        "Shaft Size": "4mm",
-        "Propeller": "14″ – 16″ inch",
-        "Cable Length": "40cm"
-      },
-      "Description": "This 5010 750KV High Torque Brushless Motor for Drone comes with self-cooling technology, able to withstand high temperatures up to 140° C.",
-      "Features": [
-        "Four fan-style cooling holes",
-        "NdFeB magnets with a high-temperature rating",
-        "140° C high temperature rated wire",
-        "Epoxy-coated inner surface"
-      ],
-      "Package_Includes": [
-        "1 x 5010 750KV High Torque Brushless Motor",
-        "3 x Male Female Golden Connector Pairs",
-        "1 x Propeller Mount with Accessories"
-      ]
-    },
-    {
-      "Id": 3,
-      "Title": "EMAX ECO II Series 2207 Motor (1700KV/2400KV)",
-      "Rel": "motor",
-      "Amount": 1000,
-      "Image": "na",
-      "Specifications": {
-        "Brand": "Emax",
-        "KV": "1700KV/1900KV/2400KV (Optional)",
-        "Framework": "12N14P",
-        "Length": "33.2mm",
-        "Diameter": "27.5mm",
-        "No. of cells": "3-6S 1700KV",
-        "Propeller": "5″-5.5″",
-        "Weight": "33.4g (Without Silicone Wire)"
-      },
-      "Features": [
-        "Precision bearing",
-        "Steel shaft",
-        "Anodized finish",
-        "Multi-strand winding"
-      ],
-      "Package_Includes": [
-        "1 x EMAX ECO II 2207 Motor",
-        "5 x M3*8 Screws",
-        "1 x Aluminum M5 Nylock Nut"
-      ]
-    },
-    {
-      "Id": 4,
-      "Title": "Emax ES08MA II Servo",
-      "Rel": "M",
-      "Amount": "na",
-      "Image": "na",
-      "Specifications": {
-        "Operating Voltage": "4.8V~6.0V",
-        "Operating Current": "200mA/60º",
-        "Torque": "1.6/2.0 kgf.cm",
-        "Operating Speed": "0.12sec/60º at 4.8V; 0.10sec/60º at 6V"
-      },
-      "Description": "This is an EMAX ES08MA II 12g mini metal gear analog servo. It is used in science projects, robotic equipment, and RC models.",
-      "Features": [
-        "Ultra-thin design",
-        "Super tough gear set",
-        "Noble potentiometer for high accuracy",
-        "Dual bearing design"
-      ],
-      "Package_Includes": [
-        "1 x Emax ES08MA II Servo"
-      ]
-    },
-    {
-      "Id": 6,
-      "Title": "EMAX ES08MD 13g Mini Metal Digital Servo For RC Model in India",
-      "Rel": "M",
-      "Amount": 1300,
-      "Image": "na",
-      "Specifications": {
-        "Operating Voltage": "4.8-6.0V DC",
-        "Stall Torque": "1.6Kgf.cm(21.0 oz.in)",
-        "Operating Speed": "0.12 sec/60º at 4.8V, 0.10 sec/60º at 6.0V",
-        "Size": "23×11.5x24mm",
-        "Weight": "12g",
-        "Type": "Digital Metal Gear"
-      },
-      "Features": [
-        "Counter Clockwise Direction",
-        "Lubricated ball bearings",
-        "Durable construction"
-      ],
-      "Package_Includes": [
-        "1 x ES08MD-II Servo",
-        "1 x Control Horn Set",
-        "1 x Screw Set"
-      ]
-    },
-    {
-      "Id": 7,
-      "Title": "Emax ES3054 30 N-cm 23T Metal Gear Digital Servo ES3154 upgrade in India",
-      "Rel": "M",
-      "Amount": 1899,
-      "Image": "na",
-      "Specifications": {
-        "Operating Voltage": "4.8 ~ 6.0V",
-        "Degree of Rotation": "180°",
-        "Stall Torque": "30 N-cm at 4.8V",
-        "Operating Speed": "0.15 sec/60° at no load",
-        "Size": "28.45×13.00×31.10mm",
-        "Weight": "17g"
-      },
-      "Features": [
-        "High Torque",
-        "Quick Rotation",
-        "Lightweight design"
-      ],
-      "Package_Includes": []
-    },
-    {
-      "Id": 8,
-      "Title": "MAD 3508 IPE 2pcs/box-580KV",
-      "Rel": "M",
-      "Amount": 8900,
-      "Image": "na",
-      "Specifications": {
-        "Weight": "99g",
-        "Thrust": "2000g",
-        "IP Rating": "IP35"
-      },
-      "Description": "INDUSTRY PROFESSION EDITION is designed to achieve waterproof and dust proof IP35 degree of protection. High performance and low power consumption at high voltage applications.",
-      "Features": [
-        "Water and dust resistant",
-        "Oversized durable bearings",
-        "Standard mounting holes",
-        "High efficiency"
-      ],
-      "Package_Includes": [
-        "2 x MAD 3508 IPE Brushless Motor"
-      ]
-    },
-    {
-      "Id": 9,
-      "Title": "MG90S Metal Geared Micro Servo Motor",
-      "Rel": "M",
-      "Amount": 250,
-      "Image": "na",
-      "Specifications": {
-        "Weight": "13 gm",
-        "Operating Voltage": "4.8V~6.6V",
-        "Torque": "1.8kg-cm at 4.8V, 2.2kg-cm at 6.6V",
-        "Rotation": "180 Degree"
-      },
-      "Description": "MG90S is a micro servo motor with metal gear, ideal for RC Airplane, Quadcopter or Robotic Arms.",
-      "Features": [
-        "Less weight",
-        "Compact size",
-        "All Metal Gear",
-        "Coreless Motor"
-      ],
-      "Package_Includes": []
-    },
-    {
-      "Id": 10,
-      "Title": "Servo motor For RC Planes and Helicopters SG90",
-      "Rel": "M",
-      "Amount": 130,
-      "Image": "na",
-      "Specifications": {
-        "Operating Voltage": "4.8V~6V",
-        "Speed": "0.10 sec/60deg (4.8v), 0.08sec/60deg (6v)",
-        "Torque": "1.6kg.cm (4.8v), 1.8kg.cm (6v)"
-      },
-      "Description": "This is RC DM-SG90D 9g/0.08s/1.8kg.cm micro digital servo for RC helicopter.",
-      "Features": [
-        "Plastic Gears",
-        "High precision",
-        "Long life Potentiometer",
-        "180 Degree Rotation"
-      ],
-      "Package_Includes": []
-    },
-    {
-      "Id": 11,
-      "Title": "T Motor Navigator Waterproof Mn601-S-170KV- 2Pcs/Set",
-      "Rel": "M",
-      "Amount": "23999+18%GST",
-      "Image": "na",
-      "Specifications": {
-        "KV": "170KV",
-        "Lipo Battery": "6-12S",
-        "Idle Current": "0.8A",
-        "ESC Recommendation": "FLAME 60A 125"
-      },
-      "Description": "MN601-S motors are designed for aerial photography platforms and mapping/surveying aerial vehicles. These motors offer superior dust and water resistance with optimized cooling.",
-      "Features": [
-        "Long Service Life",
-        "Excellent Cooling Power",
-        "Anti-High Temperature",
-        "Water- and Dust-Resistance"
-      ],
-      "Package_Includes": [
-        "2 x T MOTOR NAVIGATOR WATERPROOF MN601-S-170KV"
-      ]
-    },
-    {
-      "Id": 12,
-      "Title": "Tmotor MN5006 450KV price in India",
-      "Rel": "M",
-      "Amount": "8300+18%GST",
-      "Image": "na",
-      "Specifications": {
-        "Weight": "65g",
-        "Thrust": "500g"
-      },
-      "Description": "T MOTOR ANTIGRAVITY MN5006 450KV offers long flight times for quadcopters with 4kg load."
-    },
-    {
-      "Id": 13,
-      "Title": "A2212 1000KV Brushless Motor For RC Airplane / Quadcopter",
-      "Rel": "M",
-      "Amount": 361,
-      "Image": "na",
-      "Specifications": {
-        "Motor KV": "1000",
-        "Weight": "65g",
-        "Shaft Diameter": "3.17mm",
-        "Thrust": "500g"
-      },
-      "Description": "A high-performance motor for RC airplanes and quadcopters."
-    },
-    {
-      "Id": 14,
-      "Title": "A2212 1400KV Brushless Motor For RC Airplane / Quadcopter",
-      "Rel": "M",
-      "Amount": 363,
-      "Image": "na",
-      "Specifications": {
-        "Motor KV": "1400",
-        "Weight": "65g",
-        "Shaft Diameter": "3.17mm"
-      },
-      "Description": "A2212 1400KV Brushless Motor for RC airplane and quadcopter."
-    },
-    {
-      "Id": 15,
-      "Title": "A2212 2200KV Brushless Motor For RC Airplane / Quadcopter",
-      "Rel": "M",
-      "Amount": 499,
-      "Image": "na",
-      "Specifications": {
-        "Motor KV": "2200",
-        "Dimensions": "27.5 x 30mm"
-      },
-      "Description": "A2212 2200KV Brushless Motor designed for RC airplanes and quadcopters."
-    },
-    {
-      "Id": 16,
-      "Title": "DYS 1100KV Brushless Motor D2826 for RC Models",
-      "Rel": "M",
-      "Amount": 999,
-      "Image": "na",
-      "Specifications": {
-        "Motor KV": "1100",
-        "Pull": "1050g",
-        "Motor Size": "35x30 mm"
-      },
-      "Description": "D2826 is a brushless motor with a 1100KV rating, designed for RC models."
-    },
-    {
-      "Id": 17,
-      "Title": "2 set 716 Magnetic Micro Coreless Motor + 55 MM Propeller for Micro Quadcopters",
-      "Rel": "M",
-      "Amount": 314,
-      "Image": "na",
-      "Specifications": {
-        "RPM": "48000"
-      },
-      "Description": "These lightweight brushed DC coreless motors are ideal for small drones, offering high speed."
-    },
-    {
-      "Id": 18,
-      "Title": "2312-920KV DC Brushless motor for Drone-CW (Clockwise) Direction",
-      "Rel": "M",
-      "Amount": 689,
-      "Image": "na",
-      "Specifications": {
-        "Motor KV": "920KV",
-        "Max Power": "220W"
-      },
-      "Description": "A high-quality, reasonably priced Brushless DC Motor for drones, featuring Japanese EZO bearings for smooth operation."
-    },
-    {
-      "Id": 19,
-      "Title": "A2212 1200KV Brushless Motor For RC Airplane / Quadcopter",
-      "Rel": "M",
-      "Amount": 439,
-      "Image": "na",
-      "Specifications": {
-        "Motor KV": "1200",
-        "Weight": "55g",
-        "Shaft Diameter": "3.17mm"
-      },
-      "Description": "High-performance A2212 1200KV Brushless Motor for RC airplanes and quadcopters."
-    },
-    {
-      "Id": 20,
-      "Title": "A2212 KV1800 Brushless Motor For RC Airplane / Quadcopter",
-      "Rel": "M",
-      "Amount": 399,
-      "Image": "na",
-      "Specifications": {
-        "KV": "1800KV",
-        "Battery": "2-4S",
-        "Suggested Prop": "8060"
-      },
-      "Description": "High-performance brushless motor for RC airplanes and quadcopters."
-    },
-    {
-      "Id": 21,
-      "Title": "Emax 700KV MT3110 Brushless Motor for Multirotor",
-      "Rel": "M",
-      "Amount": "2599 + inc GST",
-      "Image": "na",
-      "Specifications": {
-        "KV": "700KV",
-        "Max Thrust": "1430 gm",
-        "Propeller": "10″ – 12″"
-      },
-      "Description": "The EMAX MT3110 700KV Brushless DC Motor is designed for moderate-heavy lift applications."
-    },
-    {
-      "Id": 22,
-      "Title": "Ready To Sky MT2204-2300KV Brushless Motor CCW(Counter ClockWise) Direction For RC Drone",
-      "Rel": "M",
-      "Amount": 534,
-      "Image": "na",
-      "Specifications": {
-        "KV": "2300KV"
-      },
-      "Description": "The MT2204 2300KV from Readytosky is the new benchmark for multirotor performance."
-    },
-    {
-      "Id": 23,
-      "Title": "Ready To Sky MT2204-2300KV Brushless Motor CW(ClockWise) Direction For RC Drone",
-      "Rel": "M",
-      "Amount": 579,
-      "Image": "na",
-      "Specifications": {
-        "KV": "2300KV"
-      },
-      "Description": "The MT2204 2300KV from Readytosky offers superior multirotor performance."
-    },
-    {
-      "Id": 24,
-      "Title": "SunnySky Motor X2212-9 1250kv brushless motor",
-      "Rel": "M",
-      "Amount": 999,
-      "Image": "na",
-      "Specifications": {
-        "KV": "1250KV",
-        "Bearings": "Japanese NMB"
-      },
-      "Description": "SunnySky Motor X2212-9 1250kv brushless motor designed with long-lasting Japanese NMB ball bearings."
-    },
-    {
-      "Id": 25,
-      "Title": "EMAX 935KV CCWMulticopter Motor MT2213 with Propeller Pair 1045 (Original)",
-      "Rel": "M",
-      "Amount": 1168,
-      "Image": "na",
-      "Specifications": {
-        "KV": "935KV",
-        "Propeller": "1045"
-      },
-      "Description": "The EMAX MT2213 935KV BLDC Motor is designed for quadcopters and multicopters."
-    },
-    {
-      "Id": 26,
-      "Title": "Sunnysky R2205 KV2500 Brushless Motor CW for FPV Racing Drone (1pcs)",
-      "Rel": "M",
-      "Amount": 1534,
-      "Image": "na",
-      "Specifications": {
-        "KV": "2500KV",
-        "Max Thrust": "1500g+"
-      },
-      "Description": "The Sunnysky R2205 KV2500 Brushless Motor is designed for FPV racing drones, delivering high thrust for agile maneuvers."
-    },
-    {
-        "Id": 39,
-        "Title": "CUAV X7+ Flight Controller | Autopilot For PX4 & APM Drone Hardware",
-        "Rel": "Flight Controller",
-        "Amount": 31199,
-        "Image": "",
-        "Description": "X7+ is an advanced autopilot independently designed by CUAV. It uses a higher-performance STM32H7 processor and integrates industrial-grade sensors. This board can run ArduPilot firmware perfectly, and it will also be compatible with PX4 firmware.",
+        "Id": 1,
+        "Title": "DJI 2212 920KV Brushless DC Motor for Drone with Black Cap",
+        "Rel": "motor",
+        "Amount": 690,
+        "Image": "na",
         "Specifications": {
-          "Processor": "STM32H743",
-          "Sensors": {
-            "Accelerometer/Gyroscope": ["ICM-42688-P", "ICM-20689"],
-            "Magnetometer": "RM3100",
-            "Barometer": "MS5611*2"
-          },
-          "Interfaces": [
-            "14 PWM outputs",
-            "Support multiple RC inputs",
-            "2 GPS ports",
-            "6 i2c buses",
-            "2 CAN bus ports",
-            "2 Power ports"
-          ],
-          "Power System": {
-            "Power": "4.5~5.4V",
-            "USB Input": "4.75~5.25V",
-            "Servo Rail Input": "0~10V"
-          },
-          "Weight": "101g",
-          "Operating temperature": "-20 ~ 85°C"
+            "Motor KV": "920 RPM/V",
+            "Motor Rotation": "CW",
+            "Thrust": "Around 0.5 kg",
+            "LiPO Batteries": "3S-4S",
+            "ESC": "30 A",
+            "Shaft Diameter": "6 mm"
         },
-        "Warning": [
-          "RCIN port is limited to powering the RC receiver",
-          "PWM OUT does not power the flight controller board"
+        "Description": "This motor provides a Motor kV of 920 and gives a thrust of 500 gm. The Ready to Sky brand gained more popularity in the market due to the highest standards for optimal performance and reliability.",
+        "Features": [
+            "Stable Performance",
+            "Compact size",
+            "Offers great performance and value for money",
+            "Provides 0.5 kg of thrust"
+        ],
+        "Package_Includes": [
+            "1 x 2212 920KV Brushless Motor for DJI",
+            "1 x Black Cap"
         ]
-      },
-      {
-        "Id": 40,
-        "Title": "Hex Pixhawk 2.1 cube PX4 PIX 32 Bit Flight Controller Autopilot",
-        "Rel": "Flight Controller",
-        "Amount": 39999,
-        "Image": "",
-        "Description": "The Cube Orange targets education, amateur drone lovers, and professionals with cost-effective flight control hardware.",
+    },
+    {
+        "Id": 2,
+        "Title": "5010 750KV High Torque Brushless Motor for Drone",
+        "Rel": "motor",
+        "Amount": 1500,
+        "Image": "na",
         "Specifications": {
-          "Processor": "H7",
-          "Features": [
-            "IMU Heating system",
-            "Robust DF17 Interface",
-            "Triple-redundant sensors"
-          ],
-          "Package Includes": [
-            "1 x Hex Pixhawk 2.1 cube PX4 PIX 32 Bit Flight Controller",
-            "1 x The Cube Orange",
-            "1 x ADS-B Carrier Board",
-            "1 x Power Brick"
-          ]
-        }
-      },
-      {
-        "Id": 41,
-        "Title": "KK2.0 Flight Controller",
-        "Rel": "Flight Controller",
-        "Amount": 4999,
-        "Image": "",
-        "Description": "A good Flight controller for Beginners in which there is no need to do much configuration like Pixhawk.",
+            "Motor KV": "750KV",
+            "LiPO Battery": "2-6s Li-Po",
+            "ESC": "20-40A",
+            "Shaft Size": "4mm",
+            "Propeller": "14″ – 16″ inch",
+            "Cable Length": "40cm"
+        },
+        "Description": "This 5010 750KV High Torque Brushless Motor for Drone comes with self-cooling technology, able to withstand high temperatures up to 140° C.",
+        "Features": [
+            "Four fan-style cooling holes",
+            "NdFeB magnets with a high-temperature rating",
+            "140° C high temperature rated wire",
+            "Epoxy-coated inner surface"
+        ],
+        "Package_Includes": [
+            "1 x 5010 750KV High Torque Brushless Motor",
+            "3 x Male Female Golden Connector Pairs",
+            "1 x Propeller Mount with Accessories"
+        ]
+    },
+    {
+        "Id": 3,
+        "Title": "EMAX ECO II Series 2207 Motor (1700KV/2400KV)",
+        "Rel": "motor",
+        "Amount": 1000,
+        "Image": "na",
         "Specifications": {
-          "Firmware version": "1.6",
-          "Input voltage": "4.8-6.0V",
-          "Processor": "Atmega644",
-          "Size": "36x36x11.5mm"
-        }}
-  ]
-  
+            "Brand": "Emax",
+            "KV": "1700KV/1900KV/2400KV (Optional)",
+            "Framework": "12N14P",
+            "Length": "33.2mm",
+            "Diameter": "27.5mm",
+            "No. of cells": "3-6S 1700KV",
+            "Propeller": "5″-5.5″",
+            "Weight": "33.4g (Without Silicone Wire)"
+        },
+        "Description": "NA",
+        "Features": [
+            "Precision bearing",
+            "Steel shaft",
+            "Anodized finish",
+            "Multi-strand winding"
+        ],
+        "Package_Includes": [
+            "1 x EMAX ECO II 2207 Motor",
+            "5 x M3*8 Screws",
+            "1 x Aluminum M5 Nylock Nut"
+        ]
+    },
+    {
+        "Id": 4,
+        "Title": "Emax ES08MA II Servo",
+        "Rel": "M",
+        "Amount": "na",
+        "Image": "na",
+        "Specifications": {
+            "Operating Voltage": "4.8V~6.0V",
+            "Operating Current": "200mA/60º",
+            "Torque": "1.6/2.0 kgf.cm",
+            "Operating Speed": "0.12sec/60º at 4.8V; 0.10sec/60º at 6V"
+        },
+        "Description": "This is an EMAX ES08MA II 12g mini metal gear analog servo. It is used in science projects, robotic equipment, and RC models.",
+        "Features": [
+            "Ultra-thin design",
+            "Super tough gear set",
+            "Noble potentiometer for high accuracy",
+            "Dual bearing design"
+        ],
+        "Package_Includes": [
+            "1 x Emax ES08MA II Servo"
+        ]
+    },
+    {
+        "Id": 6,
+        "Title": "EMAX ES08MD 13g Mini Metal Digital Servo For RC Model in India",
+        "Rel": "M",
+        "Amount": 1300,
+        "Image": "na",
+        "Specifications": {
+            "Operating Voltage": "4.8-6.0V DC",
+            "Stall Torque": "1.6Kgf.cm(21.0 oz.in)",
+            "Operating Speed": "0.12 sec/60º at 4.8V, 0.10 sec/60º at 6.0V",
+            "Size": "23×11.5x24mm",
+            "Weight": "12g",
+            "Type": "Digital Metal Gear"
+        },
+        "Description": "NA",
+        "Features": [
+            "Counter Clockwise Direction",
+            "Lubricated ball bearings",
+            "Durable construction"
+        ],
+        "Package_Includes": [
+            "1 x ES08MD-II Servo",
+            "1 x Control Horn Set",
+            "1 x Screw Set"
+        ]
+    },
+    {
+        "Id": 7,
+        "Title": "Emax ES3054 30 N-cm 23T Metal Gear Digital Servo ES3154 upgrade in India",
+        "Rel": "M",
+        "Amount": 1899,
+        "Image": "na",
+        "Specifications": {
+            "Operating Voltage": "4.8 ~ 6.0V",
+            "Degree of Rotation": "180°",
+            "Stall Torque": "30 N-cm at 4.8V",
+            "Operating Speed": "0.15 sec/60° at no load",
+            "Size": "28.45×13.00×31.10mm",
+            "Weight": "17g"
+        },
+        "Description": "NA",
+        "Features": [
+            "High Torque",
+            "Quick Rotation",
+            "Lightweight design"
+        ],
+        "Package_Includes": []
+    },
+    {
+        "Id": 8,
+        "Title": "MAD 3508 IPE 2pcs/box-580KV",
+        "Rel": "M",
+        "Amount": 8900,
+        "Image": "na",
+        "Specifications": {
+            "Weight": "99g",
+            "Thrust": "2000g",
+            "IP Rating": "IP35"
+        },
+        "Description": "INDUSTRY PROFESSION EDITION is designed to achieve waterproof and dust proof IP35 degree of protection. High performance and low power consumption at high voltage applications.",
+        "Features": [
+            "Water and dust resistant",
+            "Oversized durable bearings",
+            "Standard mounting holes",
+            "High efficiency"
+        ],
+        "Package_Includes": [
+            "2 x MAD 3508 IPE Brushless Motor"
+        ]
+    },
+    {
+        "Id": 9,
+        "Title": "MG90S Metal Geared Micro Servo Motor",
+        "Rel": "M",
+        "Amount": 250,
+        "Image": "na",
+        "Specifications": {
+            "Weight": "13 gm",
+            "Operating Voltage": "4.8V~6.6V",
+            "Torque": "1.8kg-cm at 4.8V, 2.2kg-cm at 6.6V",
+            "Rotation": "180 Degree"
+        },
+        "Description": "MG90S is a micro servo motor with metal gear, ideal for RC Airplane, Quadcopter or Robotic Arms.",
+        "Features": [
+            "Less weight",
+            "Compact size",
+            "All Metal Gear",
+            "Coreless Motor"
+        ],
+        "Package_Includes": []
+    },
+    {
+        "Id": 10,
+        "Title": "Servo motor For RC Planes and Helicopters SG90",
+        "Rel": "M",
+        "Amount": 130,
+        "Image": "na",
+        "Specifications": {
+            "Operating Voltage": "4.8V~6V",
+            "Speed": "0.10 sec/60deg (4.8v), 0.08sec/60deg (6v)",
+            "Torque": "1.6kg.cm (4.8v), 1.8kg.cm (6v)"
+        },
+        "Description": "This is RC DM-SG90D 9g/0.08s/1.8kg.cm micro digital servo for RC helicopter.",
+        "Features": [
+            "Plastic Gears",
+            "High precision",
+            "Long life Potentiometer",
+            "180 Degree Rotation"
+        ],
+        "Package_Includes": []
+    },
+    {
+        "Id": 11,
+        "Title": "T Motor Navigator Waterproof Mn601-S-170KV- 2Pcs/Set",
+        "Rel": "M",
+        "Amount": "23999+18%GST",
+        "Image": "na",
+        "Specifications": {
+            "KV": "170KV",
+            "Voltage": "6-12S",
+            "Max Thrust": "7.5 kg",
+            "Weight": "60 g"
+        },
+        "Description": "T Motor Mn601-S is a new generation of waterproof brushless motor. High efficiency, low consumption, and long lifespan.",
+        "Features": [
+            "Waterproof",
+            "Highly efficient",
+            "Low consumption"
+        ],
+        "Package_Includes": [
+            "2 x T Motor Navigator Mn601-S-170KV"
+        ]
+    },
+    {
+        "Id": 12,
+        "Title": "Hobbywing Skywalker 40A Brushless ESC",
+        "Rel": "M",
+        "Amount": 3299,
+        "Image": "na",
+        "Specifications": {
+            "Continuous Current": "40A",
+            "Burst Current": "50A",
+            "BEC": "5V/3A",
+            "Weight": "55g",
+            "Size": "61x29x10mm"
+        },
+        "Description": "This 40A brushless ESC from Hobbywing is designed for excellent performance in multirotor applications.",
+        "Features": [
+            "Easy to use",
+            "Strong performance",
+            "Excellent value"
+        ],
+        "Package_Includes": [
+            "1 x Hobbywing Skywalker 40A Brushless ESC"
+        ]
+    },
+    {
+        "Id": 13,
+        "Title": "Hobbyking 30A ESC for Electric Aircraft",
+        "Rel": "M",
+        "Amount": 1899,
+        "Image": "na",
+        "Specifications": {
+            "Continuous Current": "30A",
+            "Burst Current": "40A",
+            "BEC": "5V/3A",
+            "Weight": "45g",
+            "Size": "64 x 28 x 10mm"
+        },
+        "Description": "Hobbyking 30A ESC is lightweight, reliable and has excellent performance for your electric aircraft.",
+        "Features": [
+            "Lightweight design",
+            "High efficiency",
+            "Easy to use"
+        ],
+        "Package_Includes": [
+            "1 x Hobbyking 30A ESC"
+        ]
+    },
+    {
+        "Id": 14,
+        "Title": "Turnigy Aerodrive 28-26 750kv Brushless Motor",
+        "Rel": "M",
+        "Amount": 2099,
+        "Image": "na",
+        "Specifications": {
+            "KV": "750KV",
+            "Max Current": "22A",
+            "Max Voltage": "12V",
+            "Weight": "160g",
+            "Shaft Diameter": "5mm"
+        },
+        "Description": "The Turnigy Aerodrive 28-26 750kv Brushless Motor is a great option for multirotors, offering high efficiency and great power-to-weight ratio.",
+        "Features": [
+            "High efficiency",
+            "Powerful",
+            "Great weight-to-power ratio"
+        ],
+        "Package_Includes": [
+            "1 x Turnigy Aerodrive 28-26 750kv Brushless Motor"
+        ]
+    },
+    {
+        "Id": 15,
+        "Title": "2206 2300KV Brushless Motor",
+        "Rel": "M",
+        "Amount": 1099,
+        "Image": "na",
+        "Specifications": {
+            "KV": "2300KV",
+            "Max Current": "30A",
+            "Weight": "29g",
+            "Size": "22 x 23mm"
+        },
+        "Description": "2206 2300KV Brushless Motor, known for its high performance and low weight, suitable for racing drones.",
+        "Features": [
+            "High efficiency",
+            "Lightweight design",
+            "Powerful thrust"
+        ],
+        "Package_Includes": [
+            "1 x 2206 2300KV Brushless Motor"
+        ]
+    },
+    {
+        "Id": 16,
+        "Title": "AKK X2 Ultimate 5.8G 2000mW VTX",
+        "Rel": "M",
+        "Amount": 5000,
+        "Image": "na",
+        "Specifications": {
+            "Input Voltage": "7-26V",
+            "Output Power": "25mW, 200mW, 600mW, 1000mW, 2000mW",
+            "Weight": "20g",
+            "Size": "32x32mm"
+        },
+        "Description": "The AKK X2 Ultimate is a powerful video transmitter offering five power levels, perfect for FPV racing.",
+        "Features": [
+            "Compact design",
+            "Five output power levels",
+            "Lightweight"
+        ],
+        "Package_Includes": [
+            "1 x AKK X2 Ultimate 5.8G 2000mW VTX"
+        ]
+    },
+    {
+        "Id": 17,
+        "Title": "HDMI to RCA Converter",
+        "Rel": "converter",
+        "Amount": 1500,
+        "Image": "na",
+        "Specifications": {
+            "Input": "HDMI",
+            "Output": "RCA",
+            "Resolution": "720p/1080p",
+            "Power": "USB powered"
+        },
+        "Description": "NA",
+        "Features": [
+            "Supports HD video",
+            "Compact design",
+            "Easy to use"
+        ],
+        "Package_Includes": [
+            "1 x HDMI to RCA Converter",
+            "1 x USB Power Cable"
+        ]
+    },
+    {
+        "Id": 18,
+        "Title": "USB Type-C to HDMI Adapter",
+        "Rel": "adapter",
+        "Amount": 1200,
+        "Image": "na",
+        "Specifications": {
+            "Input": "USB Type-C",
+            "Output": "HDMI",
+            "Resolution": "4K@30Hz",
+            "Compatibility": "Windows/Mac"
+        },
+        "Description": "NA",
+        "Features": [
+            "4K resolution support",
+            "Plug and play",
+            "Lightweight"
+        ],
+        "Package_Includes": [
+            "1 x USB Type-C to HDMI Adapter"
+        ]
+    },
+    {
+        "Id": 19,
+        "Title": "Wireless USB WiFi Adapter",
+        "Rel": "adapter",
+        "Amount": 799,
+        "Image": "na",
+        "Specifications": {
+            "Interface": "USB 2.0",
+            "Speed": "600 Mbps",
+            "Compatibility": "Windows/Linux/Mac"
+        },
+        "Description": "NA",
+        "Features": [
+            "Dual-band",
+            "Easy installation",
+            "Compact design"
+        ],
+        "Package_Includes": [
+            "1 x Wireless USB WiFi Adapter"
+        ]
+    },
+    {
+        "Id": 20,
+        "Title": "Bluetooth USB Adapter",
+        "Rel": "adapter",
+        "Amount": 500,
+        "Image": "na",
+        "Specifications": {
+            "Version": "Bluetooth 5.0",
+            "Range": "20m",
+            "Interface": "USB 2.0"
+        },
+        "Description": "NA",
+        "Features": [
+            "High speed",
+            "Wide compatibility",
+            "Compact design"
+        ],
+        "Package_Includes": [
+            "1 x Bluetooth USB Adapter"
+        ]
+    },
+    {
+        "Id": 21,
+        "Title": "Portable External Hard Drive 1TB",
+        "Rel": "storage",
+        "Amount": 4500,
+        "Image": "na",
+        "Specifications": {
+            "Capacity": "1TB",
+            "Interface": "USB 3.0",
+            "Size": "2.5 inches"
+        },
+        "Description": "NA",
+        "Features": [
+            "Compact and lightweight",
+            "High speed data transfer",
+            "Compatible with various devices"
+        ],
+        "Package_Includes": [
+            "1 x Portable External Hard Drive",
+            "1 x USB Cable"
+        ]
+    },
+    {
+        "Id": 22,
+        "Title": "16GB USB Flash Drive",
+        "Rel": "storage",
+        "Amount": 299,
+        "Image": "na",
+        "Specifications": {
+            "Capacity": "16GB",
+            "Interface": "USB 2.0",
+            "Compatibility": "Windows/Mac/Linux"
+        },
+        "Description": "NA",
+        "Features": [
+            "Compact design",
+            "Easy to carry",
+            "Plug and play"
+        ],
+        "Package_Includes": [
+            "1 x 16GB USB Flash Drive"
+        ]
+    },
+    {
+        "Id": 23,
+        "Title": "256GB SD Card",
+        "Rel": "storage",
+        "Amount": 1499,
+        "Image": "na",
+        "Specifications": {
+            "Capacity": "256GB",
+            "Speed Class": "UHS-I U3",
+            "Compatibility": "DSLR/Camera"
+        },
+        "Description": "NA",
+        "Features": [
+            "High speed performance",
+            "Durable design",
+            "Wide compatibility"
+        ],
+        "Package_Includes": [
+            "1 x 256GB SD Card"
+        ]
+    },
+    {
+        "Id": 24,
+        "Title": "Wireless Bluetooth Earbuds",
+        "Rel": "audio",
+        "Amount": 1999,
+        "Image": "na",
+        "Specifications": {
+            "Bluetooth Version": "5.0",
+            "Battery Life": "5 hours",
+            "Charging Case": "Yes"
+        },
+        "Description": "NA",
+        "Features": [
+            "Comfortable fit",
+            "Great sound quality",
+            "Noise cancellation"
+        ],
+        "Package_Includes": [
+            "1 x Wireless Bluetooth Earbuds",
+            "1 x Charging Case",
+            "1 x USB Charging Cable"
+        ]
+    },
+    {
+        "Id": 25,
+        "Title": "Wired Over-Ear Headphones",
+        "Rel": "audio",
+        "Amount": 999,
+        "Image": "na",
+        "Specifications": {
+            "Driver Size": "40mm",
+            "Impedance": "32 ohm",
+            "Cable Length": "1.2m"
+        },
+        "Description": "NA",
+        "Features": [
+            "Comfortable design",
+            "Great sound quality",
+            "Adjustable headband"
+        ],
+        "Package_Includes": [
+            "1 x Wired Over-Ear Headphones"
+        ]
+    },
+    {
+        "Id": 26,
+        "Title": "USB Microphone",
+        "Rel": "audio",
+        "Amount": 1499,
+        "Image": "na",
+        "Specifications": {
+            "Type": "Condenser",
+            "Frequency Response": "20Hz-20kHz",
+            "Connection": "USB"
+        },
+        "Description": "NA",
+        "Features": [
+            "Clear sound quality",
+            "Plug and play",
+            "Compact design"
+        ],
+        "Package_Includes": [
+            "1 x USB Microphone"
+        ]
+    },
+    {
+        "Id": 27,
+        "Title": "Gaming Mouse",
+        "Rel": "peripheral",
+        "Amount": 1299,
+        "Image": "na",
+        "Specifications": {
+            "DPI": "3200",
+            "Connection": "USB",
+            "Weight": "120g"
+        },
+        "Description": "NA",
+        "Features": [
+            "High precision",
+            "Customizable buttons",
+            "Ergonomic design"
+        ],
+        "Package_Includes": [
+            "1 x Gaming Mouse"
+        ]
+    },
+    {
+        "Id": 28,
+        "Title": "Mechanical Gaming Keyboard",
+        "Rel": "peripheral",
+        "Amount": 3499,
+        "Image": "na",
+        "Specifications": {
+            "Switch Type": "Blue",
+            "Key Roll-over": "Anti-ghosting",
+            "Backlight": "RGB"
+        },
+        "Description": "NA",
+        "Features": [
+            "Customizable RGB lighting",
+            "Durable construction",
+            "Great tactile feedback"
+        ],
+        "Package_Includes": [
+            "1 x Mechanical Gaming Keyboard"
+        ]
+    },
+    {
+        "Id": 29,
+        "Title": "Webcam 1080p HD",
+        "Rel": "peripheral",
+        "Amount": 2499,
+        "Image": "na",
+        "Specifications": {
+            "Resolution": "1080p",
+            "Field of View": "90 degrees",
+            "Connection": "USB"
+        },
+        "Description": "NA",
+        "Features": [
+            "High-definition video",
+            "Built-in microphone",
+            "Plug and play"
+        ],
+        "Package_Includes": [
+            "1 x Webcam"
+        ]
+    },
+    {
+        "Id": 30,
+        "Title": "HDMI Switch 3 Port",
+        "Rel": "switch",
+        "Amount": 999,
+        "Image": "na",
+        "Specifications": {
+            "Input Ports": "3",
+            "Output Port": "1",
+            "Support": "4K@60Hz"
+        },
+        "Description": "NA",
+        "Features": [
+            "Easy switching between devices",
+            "Compact design",
+            "Supports 4K resolution"
+        ],
+        "Package_Includes": [
+            "1 x HDMI Switch",
+            "1 x USB Power Cable"
+        ]
+    }
+]
